@@ -1,0 +1,66 @@
+
+.flex {
+	display: flex;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.flex-item-1 {
+	flex: 1;
+}
+
+/* Flex Item */
+.item {
+	
+	width: 1rem;/* tamanho do quadradinho */
+	height: 1rem;
+	background: rgb(142, 142, 142);
+	text-align: center;
+	font-size: 1.5em;
+	border-radius: 10px;/*  deixando as boras arredondadas  */
+	cursor: pointer;/*  aparece o cursos na tela */
+	padding: 1rem;
+	margin: 1rem;
+	/*background: linear-gradient(90deg, #00dffc 0%, #05444d 100%);*/
+
+	
+}
+.item:hover {
+	width: 1.1rem;
+	height: 1.1rem;
+   }
+.container {
+	text-align: center;
+	max-width: 410px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+	border-radius: 10px;/*  deixando as boras arredondadas  */
+}
+
+.scream{
+	padding: 1rem;
+	margin: 1rem;
+	color: rgb(7, 6, 6);
+	
+	border-radius: 10px;/*  deixando as boras arredondadas  */
+	border: 1px solid #ccc;
+	/* position: relative; */
+	
+	
+	
+}
+
+.itemScram{
+	color: rgb(12, 13, 13);
+	width: 1rem;/* tamanho do quadradinho */
+	height: 2rem;
+	align-items:center;
+	font-size: 1.5em;
+	
+    /* margin: -10px;
+	z-index: 1;
+	float:inline-end;*/
+} 
+

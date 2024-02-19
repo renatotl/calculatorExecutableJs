@@ -1,0 +1,19 @@
+{
+  "name": "calculatorexecutablejs",
+  "version": "1.0.0",
+  "description": "calculator with arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatotl/calculatorExecutableJs.git"
+  },
+  "author": "renato tenorio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatotl/calculatorExecutableJs/issues"
+  },
+  "homepage": "https://github.com/renatotl/calculatorExecutableJs#readme"
+}
